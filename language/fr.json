@@ -2,7 +2,7 @@
   "quit": "Quitter",
   "cancel": "Annuler",
   "beforeQuit": "Êtes-vous sûr de vouloir quitter ?",
-  "loading": "Patientez...",
+  "loading": "Merci de patienter...",
   "loadingVideo": "Chargement de la vidéo, merci de patienter...",
   "searchLoading": "Recherche...",
   "noResults": "Aucun résultat trouvé pour votre recherche.",
@@ -15,12 +15,12 @@
   "watchItNow": "Regarder",
   "durationUnit": "min",
 
-  "connecting": "Connexion...",
+  "connecting": "Connexion en cours...",
   "startingDownload": "Démarrage du téléchargement...",
   "downloading": "Téléchargement...",
 
   "UpgradeVersion": "Mettre à jour Popcorn Time",
-  "UpgradeVersionDescription": "Popcorn Time %s a été mis à jour. Vous devriez le télécharger maintenant !",
+  "UpgradeVersionDescription": "Popcorn Time %s est disponible. Vous devriez le télécharger maintenant !",
 
   "legalDisclaimer": "Popcorn Time télécharge les films en utilisant des torrents, qui peuvent ne pas être légal dans votre pays.",
   "legalDisclaimerResponsible": "Nous ne sommes pas responsable des problèmes qui peuvent survenir, assurez-vous de bien comprendre nos conditions générales avant d'utiliser l'application.",
